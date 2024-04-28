@@ -62,9 +62,6 @@ Here are a few other screenshots showcasing my customized setups:
 ![Screenshot 4](./Assets/w4.png)
 <div align="center">Rofi</div>
 
-![Screenshot 5](./Assets/w5.png)
-<div align="center">Few Apps Stacked</div>
-
 ![Screenshot 6](./Assets/w6.png)
 <div align="center">Exit Menu using Rofi</div>
 
